@@ -1,7 +1,9 @@
 # GAN-BiLSTM Network for Field-road Classification on Imbalanced GNSS Recordings
 
 ![Overview](media/model_art.png)
-
+## 🚀 What's New
+- **\[2024.05.20\]** We released the v2 version of the code, which further optimises model robustness.
+- **\[2023.12.11\]** We released the code.
 ## Quick start
 
 ```bash
